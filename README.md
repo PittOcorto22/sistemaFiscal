@@ -15,3 +15,5 @@ Como usarlo:
 1. Descargar el archivo zip
 2. Abrir el proyecto en el cualquier IDE
 3. Ejecutar la clase principal `SistemaFiscalApp.java` para inicializar la simulación en consola.
+
+link del video: https://youtu.be/DL8aoV2A1HQ
